@@ -39,8 +39,8 @@ class Card{
 
 }
 
-// let cardTest = new Card('test1', 'test2', 'test3');
-// console.log(cardTest)
+let cardTest = new Card('test1', 'test2', 'test3');
+console.log(cardTest)
 
 class Deck{
     constructor() {
